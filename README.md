@@ -9,6 +9,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
 <br>
-<img src="https://github.com/KevinLucas-Develop/Devclub-Desafio01-Positive/blob/main/assets/Design.png?raw=true" alt="Imagem do Site"/>
+<img src="https://github.com/KevinLucas-Develop/Devclub-Desafio02-WeCareYourPet/blob/main/assets/Design.png?raw=true" alt="Imagem do Site"/>
 
 
