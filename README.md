@@ -1,4 +1,4 @@
-<h1>We Care Your Pet-Resposive'</h1>
+<h1>We Care Your Pet-Responsive'</h1>
 <br>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br">Devclub'</a></h2>
